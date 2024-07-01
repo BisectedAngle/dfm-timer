@@ -133,7 +133,7 @@ button:hover{
 
 @media (max-width: 960px){
     h1{
-        font-size: 3rem;
+        font-size: 2.7rem;
     }
 
     li span{
@@ -158,11 +158,11 @@ button:hover{
     }
 
     ul li{
-        font-size: 1.2rem;
+        font-size: 1rem;
         margin-bottom: 5rem;
     }
 
     li:first-of-type{
-        margin-right: 2.5rem;
+        margin-right: 2rem;
     }
 }
